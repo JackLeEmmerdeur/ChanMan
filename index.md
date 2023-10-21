@@ -14,7 +14,7 @@ Then simply start the application on a command-line:
 ```bash
 python main.py
 ```
-## Build as an executable
+## Bu_ild as an executable
 
 https://www.metachris.com/2016/03/how-to-install-qt56-pyqt5-virtualenv-python3/
 
