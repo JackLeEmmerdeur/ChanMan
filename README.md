@@ -1,6 +1,6 @@
 ### ChanMan
 
-<i>[🡕 Anleitung zum Starten oder Kompilieren der Applikation](./BUILD.md)</i>
+<i>[🡕 Anleitung zum Starten oder Kompilieren der Applikation](https://jackleemmerdeur.github.io/ChanMan/)</i>
 
 #### Anwendungsgebiet der Applikation
 
