@@ -1,3 +1,6 @@
+
+## Start the application from a terminal
+
 Install the python-packages found in the packages-Parameter in setup.py e.g.:
 ```bash
 pip3 install six ijson sortedcontainers ruamel.yaml plumbum chardet json pathlib typing PyQt5
