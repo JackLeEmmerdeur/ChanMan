@@ -1,4 +1,4 @@
-# Execute the application
+# Start the application
 
 Install the python-packages found in the packages-Parameter in setup.py e.g.:
 ```bash
