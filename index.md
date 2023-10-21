@@ -1,4 +1,5 @@
-# Start the application
+
+## Start the application
 
 Install the python-packages found in the packages-Parameter in setup.py e.g.:
 ```bash
@@ -13,7 +14,7 @@ Then simply start the application on a command-line:
 ```bash
 python main.py
 ```
-# Build as an executable
+## Build as an executable
 
 https://www.metachris.com/2016/03/how-to-install-qt56-pyqt5-virtualenv-python3/
 
