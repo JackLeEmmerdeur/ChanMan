@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34a62716-2188-4a0b-a264-ba4c469721b1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ChanMan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ChanMan.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Underware/.idea/Underware-0.0.3-py2-none-any.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Underware/.idea/Underware-0.0.3-py2-none-any.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Underware/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Underware/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Underware/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Underware/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Underware/rebuild.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Underware/rebuild.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Underware/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Underware/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Underware/setup.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../Underware/setup.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Underware/underware/modules/system.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Underware/underware/modules/system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Underware/underware/modules/types.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Underware/underware/modules/types.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ChanMan" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="41" />
+    <option name="y" value="415" />
+    <option name="width" value="1264" />
+    <option name="height" value="555" />
+  </component>
+  <component name="ProjectId" id="1Y02wXtLVtXJjqTC2VEcON6jO0M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="var_&#9;null&#9;null" />
+    <property name="ToolWindowFind.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../web/Globus/frontends/globusmaps" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="ChanMan" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="ChanMan" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="myPyQtBackend" value="PyQt5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Buccaneersdan\Documents\Projekte\Python\sources\ChanMan" />
+      <recent name="C:\Users\Buccaneersdan\Documents\Projekte\Python\sources\ChanMan\resources\binaries" />
+      <recent name="C:\Users\Buccaneersdan\Documents\Projekte\Python\sources\ChanMan\tvplugins\SharpCVS" />
+      <recent name="C:\Users\Buccaneersdan\Documents\Projekte\Python\sources\ChanMan\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Buccaneersdan\Documents\Projekte\Python\sources\ChanMan\gui" />
+      <recent name="C:\Users\Buccaneersdan\Documents\Projekte\Python\sources\ChanMan\classes" />
+      <recent name="C:\Users\Buccaneersdan\Documents\Projekte\Python\sources\ChanMan\tvplugins\ToshibaSBX" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.topwm">
+    <configuration name="App" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ChanMan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/App.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RebuildForPython3" type="PythonConfigurationType" factoryName="Python">
+      <module name="Underware-0.0.3-py2-none-any" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Underware" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Underware/rebuild.py" />
+      <option name="PARAMETERS" value="--version 3 --package underware" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fdisklist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../Skripte/python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../Skripte/python/fdisklist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="ChanMan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ntfsfix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../Skripte/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../Skripte/python/ntfsfix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pibackup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../Skripte/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../Skripte/python/pibackup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python">
+      <module name="ChanMan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="--php start" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="topwm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="TERM" value="xterm-color" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../Skripte/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../Skripte/python/topwm.py" />
+      <option name="PARAMETERS" value="java" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.App" />
+      <item itemvalue="Python.RebuildForPython3" />
+      <item itemvalue="Python.fdisklist" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.ntfsfix" />
+      <item itemvalue="Python.pibackup" />
+      <item itemvalue="Python.server" />
+      <item itemvalue="Python.topwm" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.topwm" />
+        <item itemvalue="Python.ntfsfix" />
+        <item itemvalue="Python.fdisklist" />
+        <item itemvalue="Python.pibackup" />
+        <item itemvalue="Python.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34a62716-2188-4a0b-a264-ba4c469721b1" name="Default" comment="" />
+      <created>1526318908574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526318908574</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added paragraph-type and markdown to help; Modularized help into HelpDialogWrapper.py; Nearly completed help-system-parser and caching of QTextBrowser-objects in QTabWidget in HelpDialogWrapper.py; Fixed reset of model before loading a new file; For todo's look within top of App.py">
+      <created>1527127357595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527127357595</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Default focus in SearchDialog on search-button; Helpsystem TopicItem default attribute dictionaries; Actions (Search, Save, Delete) disabled if model wasn't initialized; Prevent deletion of parent-treeview-items; Switch on/off logfile-writing via yaml-config">
+      <created>1527175761725</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1527175761725</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_lib_helpers_HelpersTest_test_filepath_to_temp - 2018.05.17 at 16h 02m 20s.xml">
+      <configuration name="Unittests for test_lib_helpers.HelpersTest.test_filepath_to_temp" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_lib_helpers_HelpersTest_test_filepath_to_temp - 2018.05.17 at 16h 03m 22s.xml">
+      <configuration name="Unittests for test_lib_helpers.HelpersTest.test_filepath_to_temp" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_lib_helpers_HelpersTest_test_filepath_to_temp - 2018.05.17 at 16h 03m 33s.xml">
+      <configuration name="Unittests for test_lib_helpers.HelpersTest.test_filepath_to_temp" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_lib_helpers_HelpersTest_test_filepath_to_temp - 2018.05.17 at 16h 03m 51s.xml">
+      <configuration name="Unittests for test_lib_helpers.HelpersTest.test_filepath_to_temp" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_lib_helpers_HelpersTest_test_filepath_to_temp - 2018.05.17 at 16h 04m 11s.xml">
+      <configuration name="Unittests for test_lib_helpers.HelpersTest.test_filepath_to_temp" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_lib_helpers_HelpersTest_test_filepath_to_temp - 2018.05.17 at 16h 04m 47s.xml">
+      <configuration name="Unittests for test_lib_helpers.HelpersTest.test_filepath_to_temp" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_lib_helpers_HelpersTest_test_filepath_to_temp - 2018.05.17 at 16h 05m 16s.xml">
+      <configuration name="Unittests for test_lib_helpers.HelpersTest.test_filepath_to_temp" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_lib_helpers_py - 2018.05.24 at 17h 32m 36s.xml">
+      <configuration name="Unittests in test_lib_helpers.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_lib_helpers_HelpersTest - 2018.05.24 at 17h 33m 18s.xml">
+      <configuration name="Unittests for test_lib_helpers.HelpersTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_lib_helpers_HelpersTest - 2018.05.24 at 17h 34m 22s.xml">
+      <configuration name="Unittests for test_lib_helpers.HelpersTest" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added paragraph-type and markdown to help; Modularized help into HelpDialogWrapper.py; Nearly completed help-system-parser and caching of QTextBrowser-objects in QTabWidget in HelpDialogWrapper.py; Fixed reset of model before loading a new file; For todo's look within top of App.py" />
+    <MESSAGE value="Default focus in SearchDialog on search-button; Helpsystem TopicItem default attribute dictionaries; Actions (Search, Save, Delete) disabled if model wasn't initialized; Prevent deletion of parent-treeview-items; Switch on/off logfile-writing via yaml-config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default focus in SearchDialog on search-button; Helpsystem TopicItem default attribute dictionaries; Actions (Search, Save, Delete) disabled if model wasn't initialized; Prevent deletion of parent-treeview-items; Switch on/off logfile-writing via yaml-config" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="279" width="432" height="487" key="FileChooserDialogImpl" timestamp="1583162669753">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state x="743" y="279" width="432" height="487" key="FileChooserDialogImpl/0.0.1920.1042/1920.30.1680.1050@0.0.1920.1042" timestamp="1583162669753" />
+    <state x="615" y="256" width="789" height="606" key="find.popup" timestamp="1582940786096">
+      <screen x="0" y="0" width="1920" height="1042" />
+    </state>
+    <state x="615" y="256" width="789" height="606" key="find.popup/0.0.1920.1042/1920.30.1680.1050@0.0.1920.1042" timestamp="1582940786096" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tvplugins/SharpCVS/SharpCVS.py</url>
+          <line>491</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tvplugins/ToshibaSBX/ToshibaSBX.py</url>
+          <line>303</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/QTHelpers.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Underware/rebuild.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../../Skripte/python/topwm.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../../Skripte/python/ntfsfix.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../../Skripte/python/topwm.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>idx == 639</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>subdir == &quot;__init__.py&quot;</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i == 2130</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i == 2140</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i == 2141</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>

@@ -1,0 +1,116 @@
+Sharp LC-43CFE4142E - Programm- / Senderliste bearbeiten (Astra 19,2°)
+Hallo, habe diesen Typ im Februar 2017 bei Kaufland gekauft und die Programmliste bearbeitet. Dazu stelle ich hier mal eine etwas längere Anleitung und die Setting-Dateien von meinem Sharp-TV, sowie eine druckbare Programmliste ein. Bei TV's der gleichen Serie müsste die Liste funktionieren. Stand Februar 2017.
+
+Vorwort:
+Obwohl es mir viel Zeit raubt, programmiere ich seit über 15 Jahren eine ganze Menge TV's und Receiver unterschiedlichster Hersteller von vielen Freunden, Bekannten und auch für viele ältere Leute. Man könnte damit fast Geld verdienen (was ich aber nicht mache - bzw. nicht darf). Alles nur weil die Hersteller dürftige Geräte mit schlechter Bedienung produzieren und dazu auch noch ein mieses Handbuch liefern, welches unverständlich ist oder eben nichts relevantes drin steht. Deshalb bekommen viele Leute die Krise! 
+Bei den meisten Programmierungen verwende ich deshalb immer dieselbe Liste und drucke sie den Leuten dazu auch aus, damit sie für die erste Zeit die Programme finden. Das Schema habe ich vor etwa 15 Jahren von "satsonne" übernommen, der im alten NF schon aktiv war. Ich glaube es waren damals Smart- und Comag-Receiver und zu seinen Settings stellte er auch die druckbare Liste in Excel-Datei ein. Diese gefielen mir sehr gut und so übernahm ich sie. Wie ich sah, ist "satsonne" hier immer noch aktiv.
+
+Hier noch einige Hinweise zu meiner Programmliste:
+Da ich kein HD+ und SKY habe bzw. brauche, sind in der Hauptliste bis Programmplatz 100 diese auch nicht vorhanden. Auch die Regionalprogramme sind ab Platz 16 auf meine Region bezogen, deshalb fängt diese auch mit "NDR FS MV HD" an, da ich dort wohne.
+
+Es ist ja auch nur eine Vorlage wie ich sie seit vielen Jahren verwende und man kann seine gewünschten Programme der einzelnen Bundesländer da plazieren wo man möchte oder die ganze Liste umarbeiten. Dazu sind diese Programme weiter hinten in der Liste enthalten und einigermaßen nach System geordnet. Sonst lösche ich diese nicht benötigten Programme eigentlich immer, aber ließ sie diesmal stehen, damit eventuell andere Nutzer noch etwas ändern können.
+
+Noch ein Hinweis: Beim Einspielen der Liste werden auch Einstellungen zu Länder und Sprachen mit übernommen, so wie ich sie eingestellt habe. Ich hatte bei der Erstinstallation "Niederlande" ausgewählt, um auch "Aufnahmen" machen zu können. Also falls einer meine Liste einspielen möchte, so hat er automatisch diese Einstellungen übernommen. Ich glaub es werden auch Bildeinstellungen übernommen, wo ich bisher aber noch nichts verändert habe.
+
+Die Liste ist sortiert nach folgendem Muster (in der Druckansicht bis Programm 100 zu sehen):
+1 bis 100 deutschsrachige Programme (meist aus Deutschland und ein paar Austria)
+100 bis 124 Einkauf / Shopping
+125 bis 146 Erotik
+147 bis 184 Regional Deutschland, die nicht 1 bis 100 enthalten sind
+185 bis 207 HD+ Deutschland
+208 bis 258 Ausland
+259 bis 308 Austria / Schweiz 
+309 bis 327 HD+ Austria
+328 bis 465 SKY Deutschland
+466 bis 476 DEMO
+477 bis 586 Radio
+
+Link nur für registrierte und freigeschaltete Mitglieder sichtbar.  der Download meiner Astra-Liste und der druckbaren Programmliste: Link nur für registrierte und freigeschaltete Mitglieder sichtbar. 
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+So, nun mal die Anleitung, wie ich's gemacht habe, da per Fernbedienung ein absoluter Graus.
+
+
+Vorbereitung
+--------------------------------------------------------------------------------------------------------------------------------------------
+1. Suchlauf machen (Empfang SAT)
+
+Hinweise zum Suchlauf:
+Falls schon ein Suchlauf gemacht wurde, besser einen neuen machen. Dazu im "Menü" auf "Einstellungen" die "Werkseinstellungen" ausführen. Es folgt dann die "Erstinstallation" mit folgenden Einstellungen: 
+
+DVB Antenne: Satellit
+OSD Sprache: Deutsch
+Land: Niederlande (dadurch funktioniert die Aufnahmefunktion über die USB-Buchse)
+Sendersuche: DTV
+Umgebung: Zuhausemodus
+LCN: Aus
+Nun die "Automatische Sendersuche" starten. Dann im Menü "Sendersuche":
+Satellit: Astra 19,2°
+Suchmodus: Netzwerk (um neue hinzugekommene Transponder und Kanäle zu suchen)
+Sendertyp: Free+ Sram... (je nachdem welche man braucht oder nur Free)
+Service Typ: Alle (je nachdem welche man braucht oder nur TV)
+Dann auf "Start".
+Im folgenden Fenster "vorbereitete Kanalliste" auf "Nein". 
+(Falls man meine Liste per USB-Stick benutzen möchte, kann man auch die "vorbereitete Kanalliste" wählen, denn es geht viel schneller und diese wird vom USB-Stick dann sowieso überschrieben).
+
+Bevor man seinen eigenen Suchlauf auf USB-Stick speichert, noch im Menü "Einstellungen" als "Audiosprache" sowie "Untertitel" "Deutsch" einstellen. Jeweils als 1. Sprache "Deutsch" genügt. Es werden nämlich diese Einstellungen, sowie auch Bildeinstellungen mit auf dem USB-Stick kopiert und somit beim Einspielen in den TV wieder übernommen.
+
+Nun nach erfolgtem Suchlauf und Einstellungen kann die Senderliste auf USB-Stick gespeichert werden.
+--------------------------------------------------------------------------------------------------------------------------------------------
+2. Formatierten USB-Stick (FAT32) in die USB-Buchse des TV einstecken
+--------------------------------------------------------------------------------------------------------------------------------------------
+3. Im Menü den Hotelmodus aufrufen
+Dazu folgende Schritte:
+Menü >>> 7906 drücken >>> Hotelmodus auf "Ein" setzen >>> "Datenbank exportieren" auswählen >>> wenn fertig, verschwindet das Menü bzw. es wird ganz kurz im unteren Bereich des Bildschirms eine Info über den erfolgreichen Export angezeigt. Dauert etwa geschätzte 20 Sekunden.
+--------------------------------------------------------------------------------------------------------------------------------------------
+4. Es sind nun zwei Dateien auf dem USB-Stick ("DVBS_Program.csv" und "cvt_database.dat").
+Diese Daten sollte man sich zweimal auf den PC übertragen. z.B. jeweils in einen Ordner: 
+"Sharp Datenbank Suchlauf Original" (zur Sicherheit) und eine 
+"Sharp Datenbank Suchlauf bearbeitet" (zum bearbeiten)
+So hat man von diesen Daten immer eine Sicherung parat, von der man bei Bedarf (falls man die Liste zum Bearbeiten versaut hat) eine neue Originale Liste rauskopieren kann.
+--------------------------------------------------------------------------------------------------------------------------------------------
+5. Zum Bearbeiten öffnet man die Datei "DVBS_Program.csv" mit einem entsprechenden Programm wie Excel oder LibreOffice (OpenOffice) als Tabelle. Dort löscht man die entsprechenden Zeilen mit dem Sender, den man nicht benötigt oder sortiert sie in die gewollte Reihenfolge. Dazu immer die komplette Zeile an die richtige Stelle einfügen. Die oberen Zeilen 1-3 nicht verändern! Ab Zeile 4, wo die Programme anfangen am besten erstmal z.B. 10-20 leere Zeilen einfügen, um danach die gewollten Programme in der richtigen Reihenfolge dort reinzukopieren.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Anleitung für bessere Übersicht beim sortieren der Programme:
+
+Zuerst habe ich im Ordner "Sharp Datenbank Suchlauf bearbeitet" die Datei "DVBS_Program.csv" zur besseren Bearbeitung 4x angelegt und mit den Dateinamen wie folgt benannt und kurz bearbeitet:
+
+DVBS_Program_Alle.csv (hier Alles was nach Zeile 3 kommt, also dort wo die Programme beginnen löschen und die Datei vorerst schließen)
+
+DVBS_Program_nur TV.csv (hier die oberen Zeilen 1-3 löschen und ebenso Alle Zeilen bis auf, wo DTV hinter steht und die Datei vorerst schließen)
+
+DVBS_Program_nur Radio.csv (hier die oberen Zeilen 1-3 löschen und ebenso Alle Zeilen bis auf, wo Radio hinter steht und die Datei vorerst schließen)
+
+DVBS_Program_nur Data.csv (hier die oberen Zeilen 1-3 löschen und ebenso Alle Zeilen bis auf, wo Data hinter steht und die Datei vorerst schließen)
+
+Also: in jeder der 3 unteren Dateien nur jeweils die Zeilen mit den dazugehörigen Programmen/Sendern stehen lassen (Service Type: also entweder DTV, Radio bzw. Data) und alle anderen löschen, so auch die Zeilen 1-3 (ist der Spaltenkopf). Dadurch sind die Programme dann laut Zeilennummer der Tabelle in der richtigen Reihenfolge (also praktisch mit Zeilennummer 1 = Programmnummer 1 beginnend), welches das Sortieren vereinfacht.
+Wenn man nun jede einzelne Datei fertig sortiert hat, kopiert man die Zeilen der Programme in die Tabelle der Datei "DVBS_Program_Alle.csv" nach dem Spaltenkopf (also ab Zeile 4). Beginnend mit den TV-Programmen (DTV), dann den Radio-Programmen (Radio) und den Data-Programmen (Data) und am Ende die Zeile [E] , soll wohl bedeuten >>> die Liste ist zu Ende. Falls die End-Zeile gelöscht wurde, einfach in der Sicherung nachsehen wie die aussieht und von dort kopieren.
+
+Achtung: die Zahlen in der Spalte (Channel Number), also vor dem Programmnamen auf keinen Fall verändern, denn diese sind dem Programm zugeordnet und sind auch in der Datei "cvt_database.dat" verankert, die wir nicht bearbeiten können. Bei einem späteren komplett neuen Suchlauf kann jedem Programm eine völlig andere Zahl zugewiesen werden, weshalb immer die beiden Dateien immer zusammen gehören.
+
+Deshalb: Auf keinen Fall sollte man eine alte "cvt_database.dat" benutzen, die vielleicht noch von einem älteren Export stammt, mit einer neueren "DVBS_Program.csv" zusammenbringen, nur weil man sie eventuell noch auf dem PC fand.
+Grund: Hat man gegenüber einem älteren Daten-Export die SAT-Einstellungen oder Transponder geändert und somit z.B. Sender zugefügt, ändern sich auch die Daten in der Datei "cvt_database.dat" und die Zuordnungen würden nicht mehr stimmen. Deshalb werden bei jedem Export ja auch beide Dateien ausgegeben.
+
+In der Datei "cvt_database.dat" sind die SAT- und Transponder-Daten, sowie andere Einstellungen gespeichert und man kann sie nicht bearbeiten. 
+Es wäre allerdings nicht schlecht und man käme so an die Transponderliste, um eventuell doppelte oder veraltete Transponder (bei Astra 19,2 sind es zur Zeit etwa 106) am PC zu löschen oder nur die gewünschten einzutragen, aber dies wird wohl nur am TV mit der FB gehen.
+
+Ob man nun überhaupt die Radio bzw. Data-Programme braucht oder haben will, ist jedem selbst überlassen. Wahrscheinlich braucht man nur die TV-Programme (DTV) und braucht dann natürlich nicht die anderen Dateien extra anlegen und sortieren wenn man sie eh löscht. Kann aber sein, dass der TV über "Data" irgendwelche Info erhält, wie z.B. Programmzeitschrift ??? Keine Ahnung.
+
+Zum Schluss kopiert man die beiden Dateien "cvt_database.dat" und "DVBS_Program_Alle.csv" auf einen USB-Stick, wobei die "DVBS_Program_Alle.csv" noch in "DVBS_Program.csv" umbenannt werden muss.
+Hinweis: Nach dem Importieren der Daten vom Stick schaltet der TV aus bzw. Standby.
+
+Ich habe die Liste eingespielt und sie funktioniert wunderbar. Auch die Radio-Programme fangen von 1 bis .... an, eben so wie sortiert. 
+
+Noch ein Hinweis zu Platzhaltern in der Liste:
+Als Leerprogramm bzw. Platzhalter in der Sortier-Liste, habe ich mir eine Zeile einfallen lassen und sie jeweils an die Stellen kopiert, wo ich später noch Programme einfügen möchte (da ja laufend welche verschwinden oder dazu kommen). Dadurch muss man auch nicht immer die druckbare Liste groß ändern, wenn man noch hier und da einen Platz frei hat. Als Channel Name habe ich dort z.B. "- frei -" reingeschrieben bzw. Info zum Programmtyp. Diese Platzhalter werden in der Programmliste im TV nicht angezeigt bzw. wird diese Nummer übersprungen.
+Ich habe allerdings festgestellt, dass diese Platzhalter verschwunden sind, wenn man die eingespielte Liste vom TV nochmals auf einen USB-Stick zurückspeichert. Dafür kommen einige Programme hinzu, die ich eigentlich gelöscht hatte. Diese folgen aber erst nach der sortierten Liste, also die DTV hinter der DTV-Liste und Radio eben auch nach der sortierten Radio-Liste.
+Einfach mal in meiner Liste reinschauen, um zu sehen wie meine Platzhalter aussehen.
+
+Zu guter Letzt:
+Ich hatte schon vor Jahren für einen Bekannten einen Blaupunkt B40A148TCSFHD bearbeitet. Eine Anleitung (ähnlich dieser hier) hatte ich dazu in NF eingestellt. Also Blaupunkt und Sharp sind in diesem Punkt gleich, zumindest einige Baureihen. Also alle Blaupunkt- und Sharp-TV's, die diese Dateien ausgeben, lassen sich somit bearbeiten. Die ausgegebenen Dateien haben den gleichen Namen, lassen sich aber nicht zwischen Blaupunkt und Sharp austauschen. Ich dachte, man könnte gleich eine aktuelle Liste vom Blaupunkt einspielen ---> Trugschluss!
+Der Sharp hat nämlich in der "DVBS_Program.csv" noch zusätzliche Spalten mit Angabe zur Verschlüsselung und der Transponderfrequenz, was sich als sehr hilfreich erwies.
+
+Ich hoffe hiermit einigen Leuten helfen zu können und nicht durch den langen Text zu verwirren! Also, gutes Gelingen!
+
+MfG nissanblue

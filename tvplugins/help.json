@@ -1,0 +1,222 @@
+{
+  "topics": [
+	{
+	  "title": "Allgemein",
+	  "items": [
+		{
+		  "type": "header2",
+		  "text": "Einleitung"
+		},
+		{
+		  "type": "paragraph",
+		  "markdown": true,
+		  "text": [
+			"Die Applikation ermöglicht die Bearbeitung von Sender-Listen für verschiedene TV-Geräte.",
+			"",
+			"Das Sortieren, Umbenennen und Löschen innerhalb von Programmlisten ist in den meisten Fällen",
+			"mittels der Fernbedienung sehr zeitraubend. Die Applikation ChanMan macht dies zu einem",
+			"Kinderspiel.",
+			"",
+			"Nach einem Export der Programmliste vom TV-Gerät auf einen USB-Stick können die Listen",
+			"in diese Applikation importiert werden, wenn für das Gerät ein entsprechendes Plugin vorliegt.",
+			"",
+			"Wie der Export der Programmliste vom jeweiligen TV-Gerät funktioniert erfahren Sie in der Hilfe ",
+			"zum jeweiligen TV-Gerät auf der linken Seite dieses Hilfe-Dialogs."
+		  ]
+		}
+	  ]
+	},
+	{
+	  "title": "Sortierung",
+	  "items": [
+		{
+		  "type": "header2",
+		  "text": "Sortierung über Kontextmenüs"
+		},
+		{
+		  "type": "paragraph",
+		  "markdown": true,
+		  "text": [
+			"Die Liste kann 3-stufig sortiert werden.",
+			"",
+			"Beispielsweise wäre es möglich in der 1.Stufe nach freien/kostenpflichtigen,",
+			"in der 2.Stufe nach HD/SD und in der 3.Stufe nach Programmnamen zu sortieren",
+			"",
+			"In der Liste wurden dann als erstes alle freien HD-Programme alphabetisch nach",
+			"Programmname sortiert angezeigt werden. Danach alle freien SD-Programme alphabetisch",
+			"sortiert. Danach kostenpflichtige HD-Programme und danach kostenpflichtige ",
+			"SD-Programme (letzteres wäre aber sehr exotisch)."
+		  ]
+		},
+		{
+		  "type": "newline"
+		},
+		{
+		  "type": "image",
+		  "src": "Images/0.png",
+		  "caption": "Kontextmenü Sortierung"
+		},
+		{
+		  "type": "paragraph",
+		  "markdown": true,
+		  "text": [
+			"Zum Sortieren einer Kategorie (TV, Radio, etc) rechtsklicken Sie auf den Kategorie-Eintrag",
+			"in der Baumansicht der Sender. Das Kontextmenü enthält 3 Stufen (1-3.Sortierung).",
+			"Auf jeder Stufe kann vorwärts und rückwärts sortiert werden.",
+			"",
+			"Im Beispiel auf dem obigen Bild wurde erst nach HD-Programmen absteigend und dann nach",
+			"Sendernamen aufsteigend sortiert.",
+			"",
+			"So werden erst alle HD-Programme mit alphabetisch sortierten Programmen und dann",
+			"alle SD-Programme alphabetisch sortiert angezeigt."
+		  ]
+		}
+	  ]
+	},
+	{
+	  "title": "Verschieben",
+	  "items": [
+		{
+		  "type": "header2",
+		  "text": "Via Drag n' Drop"
+		},
+		{
+		  "type": "header3",
+		  "text": "Kanäle auswählen"
+		},
+		{
+		  "type": "paragraph",
+		  "markdown": true,
+		  "text": [
+			"Innerhalb einer Kategorie (z.B. TV oder Radio) können die Einträge beliebig verschoben werden.",
+			"",
+			"Tätigen Sie als erstes eine Auswahl:",
+			"  - Klicken Sie dazu auf einen Kanal innerhalb einer Kategorie.",
+			"  - Fügen Sie der Auswahl einen zusammenhängenden Bereich hinzu, indem Sie mit gedrückter Shift-Taste",
+			"auf dem Keyboard auf einen weiteren Kanal klicken.",
+			"  - Um der Auswahl einen einzelnen weiteren Kanal hinzuzufügen, der nicht zu einem zusammenhängenen",
+			"Bereich gehört, halten Sie während Sie auf diesen Kanal klicken die Steuerungs-Taste (Strg) auf",
+			"Ihrem Keyboard gedrückt."
+		  ]
+		},
+		{
+		  "type": "newline"
+		},
+		{
+		  "type": "image",
+		  "src": "Images/1.png",
+		  "caption": "Auswahl"
+		},
+		{
+		  "type": "newline"
+		},
+		{
+		  "type": "header3",
+		  "text": "Verschieben"
+		},
+		{
+		  "type": "paragraph",
+		  "markdown": true,
+		  "text": [
+			"Nachdem Sie die Auswahl getätigt haben, positionieren Sie den Mauszeiger an einer ausgewählten",
+			"Stellen und halten Sie die linke Maustaste gedrückt. Ziehen (drag) Sie danach die Kanäle an die ihre",
+			"neue Stelle und lassen Sie dort die linke Maustaste wieder los.",
+			"",
+			"Dabei kann der Mauszeiger je nach Ort an dem die Kanäle fallen (drop) gelassen werden verschiedene",
+			"Symbole anzeigen."
+		  ]
+		},
+		{
+		  "type": "newline"
+		},
+		{
+		  "type": "header3",
+		  "text": "Verschieben gültig"
+		},
+		{
+		  "type": "image",
+		  "src": "Images/2.png",
+		  "caption": "Gültiger Drop-Ort"
+		},
+		{
+		  "type": "paragraph",
+		  "markdown": true,
+		  "text": [
+			"Wenn innerhalb des Hand-Mauszeigers ein Pfeil zu sehen ist, können die ausgewählten Kanäle ",
+			"verschoben werden."
+		  ]
+		},
+		{
+		  "type": "newline"
+		},
+		{
+		  "type": "header3",
+		  "text": "Verschieben ungültig"
+		},
+		{
+		  "type": "image",
+		  "src": "Images/3.png",
+		  "caption": "Ungültiger Drop-Ort"
+		},
+		{
+		  "type": "paragraph",
+		  "markdown": true,
+		  "text": [
+			"Wenn innerhalb des Hand-Mauszeigers ein Stopp-Icon zu sehen ist, können die ausgewählten Kanäle",
+			"nicht verschoben werden, was passiert wenn Sie auf einen anderen Kanal oder eine Kategorie",
+			"verschieben möchten, die nicht die selbe ist wie die aus der heraus Sie verschieben möchten."
+		  ]
+		},
+		{
+		  "type": "newline"
+		},
+		{
+		  "type": "header3",
+		  "text": "In eigene Kategorie verschieben"
+		},
+		{
+		  "type": "image",
+		  "src": "Images/4.png",
+		  "caption": "In eigene Kategorie verschieben"
+		},
+		{
+		  "type": "paragraph",
+		  "markdown": true,
+		  "text": [
+			"Wenn Sie die ausgewählten Kanäle auf der Kategorie fallen lassen, aus der sie aufgenommen",
+			"wurden, werden Sie ganz an das Ende der Kanalliste der jeweiligen Kategorie verschoben."
+		  ]
+		}
+	  ]
+	},
+
+	{
+	  "title": "Kontext-Sonderfunktionen",
+	  "items": [
+		{
+		  "type": "header2",
+		  "text": "To be continued..."
+		}
+	  ]
+	},
+	{
+	  "title": "Suche",
+	  "items": [
+		{
+		  "type": "header2",
+		  "text": "To be continued..."
+		}
+	  ]
+	},
+	{
+	  "title": "Speichern",
+	  "items": [
+		{
+		  "type": "header2",
+		  "text": "To be continued..."
+		}
+	  ]
+	}
+
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "disable_existing_loggers": false,
+  "formatters": {
+    "simple": {
+      "format": "%(asctime)s - %(message)s"
+    }
+  },
+
+  "handlers": {
+      "console": {
+          "class": "logging.StreamHandler",
+          "level": "DEBUG",
+          "formatter": "simple",
+          "stream": "ext://sys.stdout"
+      },
+
+      "warn_file_handler": {
+          "class": "logging.handlers.RotatingFileHandler",
+          "level": "WARNING",
+          "formatter": "simple",
+          "filename": "c:/users/buccaneersdan/appdata/roaming/buccaneersdan/ChanMan/logs/error.log",
+          "maxBytes": 1485760,
+          "backupCount": 5,
+          "encoding": "utf8"
+      },
+
+      "info_file_handler": {
+          "class": "logging.handlers.TimedRotatingFileHandler",
+          "level": "INFO",
+          "formatter": "simple",
+          "filename": "c:/users/buccaneersdan/appdata/roaming/buccaneersdan/ChanMan/logs/info.log",
+          "backupCount": 5,
+          "encoding": "utf8"
+      },
+
+      "error_file_handler": {
+          "class": "logging.handlers.RotatingFileHandler",
+          "level": "ERROR",
+          "formatter": "simple",
+          "filename": "c:/users/buccaneersdan/appdata/roaming/buccaneersdan/ChanMan/logs/error.log",
+          "maxBytes": 1485760,
+          "backupCount": 5,
+          "encoding": "utf8"
+      },
+
+      "mail_handler": {
+        "class": "logging.handlers.SMTPHandler",
+        "mailhost": "",
+        "fromaddr": "",
+        "toaddrs": [""],
+        "subject": ""
+      }
+  },
+
+  "loggers": {
+      "test_logger": {
+          "level": "DEBUG",
+          "handlers": ["info_file_handler"],
+          "propagate": "no"
+      },
+      "error_logger": {
+          "level": "WARNING",
+          "handlers": ["error_file_handler"],
+          "propagate": "no"
+      },
+      "info_logger": {
+          "level": "INFO",
+          "handlers": ["info_file_handler"],
+          "propagate": "no"
+      },
+      "mail_logger": {
+          "level": "WARNING",
+          "handlers": ["mail_handler"],
+          "propagate": "no"
+      }
+  },
+
+  "root": {
+      "level": "INFO",
+      "handlers": []
+  }
+}

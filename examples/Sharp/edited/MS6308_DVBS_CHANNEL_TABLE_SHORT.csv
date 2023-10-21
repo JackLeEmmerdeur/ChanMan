@@ -1,0 +1,14 @@
+--------DVBS Program Data!--------
+NOTE: Channel Number/Channel Name/Service Type/Free or Scramble/Frequency/Polarity/SymbolRate are forbidden to edit!Only support re-ordering.Forbid delete channel!
+Channel Number,Channel Name,Service Type,Free or Scramble,Frequency(MHz),Polarity,SymbolRate(KS/s),[S]
+1,Mainfranken HD,DTV,Free,10714,V,23000
+1,Radio 1,RADIO,Scrambled,10714,H,25000
+2,Franken Fernsehen HD,DTV,Free,10714,V,27000
+2,Radio 2,RADIO,Free,10712,H,21000
+3,Radio 3,RADIO,Scrambled,10712,V,24000
+4,Radio 4,RADIO,Free,10744,H,29000
+3,TVA-OTV HD,DTV,Free,10714,V,27000
+5,Radio 5,RADIO,Scrambled,10714,H,25000
+6,Radio 6,RADIO,Scrambled,10714,H,25000
+7,Radio 7,RADIO,Scrambled,10714,H,25000
+4,tv oberfranken HD,DTV,Free,10714,V,23000

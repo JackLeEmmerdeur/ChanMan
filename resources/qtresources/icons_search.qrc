@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/television_delete.png</file>
+    <file>icons/find.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,121 @@
+{
+  "topics": [
+    {
+      "title": "Sender exportieren",
+      "items": [
+        {
+          "type": "header2",
+          "text": "Vorgehensweise: Sharp-Fernseher"
+        },
+        {
+          "type": "header3",
+          "text": "USB-Stick"
+        },
+        {
+          "type": "paragraph",
+          "markdown": true,
+          "text": [
+            "Einen USB-Stick vorbereiten indem man diesen mit dem Format  _fat32_ formatiert.",
+            "Dafür gibt es auch in Linux- und Mac-Umgebungen tools.",
+            "Den Stick danach an einen freien USB-Steckplatz am Fernseher einstecken."
+          ]
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "header3",
+          "text": "Fernbedienung"
+        },
+        {
+          "type": "image",
+          "src": "pix/0.png",
+          "caption": "Menü-Taste auf der Fernbedienung betätigen",
+          "maxwidth": 150
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "header3",
+          "text": "Hauptmenü"
+        },
+        {
+          "type": "paragraph",
+          "markdown": true,
+          "text": [
+            "Im Hauptmenu die Tastenfolge 7906 auf der Ferbedienung eingeben."
+          ]
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "header3",
+          "text": "Verstecktes Menu"
+        },
+        {
+          "type": "image",
+          "src": "pix/1.png",
+          "caption": "In diesem Menu die Hotelmenü-Option aktivieren",
+          "maxwidth": 500
+        },
+        {
+          "type": "image",
+          "src": "pix/2.png",
+          "maxwidth": 500
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "header3",
+          "text": "Kanalliste exportieren"
+        },
+        {
+          "type": "image",
+          "src": "pix/3.png",
+          "maxwidth": 500
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            "Im immer noch geöffneten versteckten Menu nach unten scrollen",
+            "und \"Kanalliste exportieren\" auswählen."
+          ]
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "header3",
+          "text": "Abschließen"
+        },
+        {
+          "type": "paragraph",
+          "text": [
+            "Wenn die folgenden beiden Bildschirme nacheinander dargestellt",
+            "werden, ist der Export erfolgreich verlaufen und der USB-Stick",
+            "kann vom Fernseher abgezogen werden (eventuell diesen vorher ausschalten)."
+          ]
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "image",
+          "src": "pix/4.png",
+          "maxwidth": 500
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "image",
+          "src": "pix/5.png",
+          "maxwidth": 500
+        }
+      ]
+    }
+  ]
+}

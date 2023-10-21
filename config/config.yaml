@@ -1,0 +1,8 @@
+main:
+  lastchannel_filepath:
+  last_saveas_folderpath:
+  use_file_logger: true
+
+ui:
+  context_maxsortlevels: 3
+

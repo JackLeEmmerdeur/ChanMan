@@ -1,0 +1,91 @@
+{
+  "topics": [
+    {
+      "title": "Sender exportieren",
+      "items": [
+        {
+          "type": "header2",
+          "text": "Vorgehensweise: Toshiba-Fernseher"
+        },
+        {
+          "type": "header3",
+          "text": "USB-Stick"
+        },
+        {
+          "type": "paragraph",
+          "markdown": true,
+          "text": [
+            "Einen USB-Stick vorbereiten indem man diesen mit dem Format  _fat32_ formatiert.",
+            "Dafür gibt es auch in Linux- und Mac-Umgebungen tools.",
+            "Den Stick danach an einen freien USB-Steckplatz am Fernseher einstecken."
+          ]
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "header3",
+          "text": "Fernbedienung"
+        },
+        {
+          "type": "image",
+          "src": "pix/0.png",
+          "caption": "Menü-Taste auf der Fernbedienung betätigen",
+          "maxwidth": 150
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "header3",
+          "text": "Hauptmenü"
+        },
+        {
+          "type": "image",
+          "src": "pix/1.png",
+          "caption": "Einstellungen auswählen",
+          "maxwidth": 500
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "header3",
+          "text": "Einstellungsmenu"
+        },
+        {
+          "type": "image",
+          "src": "pix/2.png",
+          "caption": "Satelliten Einstellungen auswählen",
+          "maxwidth": 500
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "header3",
+          "text": "Satelliten Einstellungen"
+        },
+        {
+          "type": "image",
+          "src": "pix/3.png",
+          "caption": "Sat-Senderliste auswählen",
+          "maxwidth": 500
+        },
+        {
+          "type": "newline"
+        },
+        {
+          "type": "header3",
+          "text": "Sat-Senderliste"
+        },
+        {
+          "type": "image",
+          "src": "pix/4.png",
+          "caption": "Sat-Senderliste sichern auswählen",
+          "maxwidth": 500
+        }
+      ]
+    }
+  ]
+}

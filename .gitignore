@@ -1,0 +1,15 @@
+__pycache__/*
+DecryptSQLite/bin/*
+DecryptSQLite/obj/*
+bin/*
+logs/*
+
+.cache
+build
+dist
+underware.egg-info
+requirements/*
+!requirements/readme.txt
+*.pyc
+resources/pyinstaller/*
+examples/Panasonic*

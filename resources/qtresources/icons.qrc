@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/page_save.png</file>
+    <file>icons/television_delete.png</file>
+    <file>icons/delete.png</file>
+    <file>icons/drive_disk.png</file>
+    <file>icons/disk.png</file>
+    <file>icons/folder_go.png</file>
+    <file>icons/find.png</file>
+    <file>icons/transmit_blue.png</file>
+  </qresource>
+</RCC>
